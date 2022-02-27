@@ -14,3 +14,5 @@ This is a free basic template with authentication token and encryption.
 🚩 If you find some feature or bug, make a pull request o create a new issue.
 
 👋 Thanks for colaborating.
+
+🏷️ @JoaquinPettinari
