@@ -1,11 +1,11 @@
 import route from 'express'
 const router = route.Router();
 
+//This route is and example
 router.get('/', (req, res) => {
     res.json({
         error: null,
         data: {
-            title: 'mi ruta protegida',
             user: req.user
         }
     })

@@ -14,7 +14,7 @@ app.use(bodyparser.urlencoded({ extended: false }));
 app.use(bodyparser.json());
 app.use(cors());
 
-// import routes
+// Import routes
 app.use('/', routes);
 
 // Database conection
