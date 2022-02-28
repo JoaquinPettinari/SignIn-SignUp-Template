@@ -5,10 +5,10 @@ import envs from 'dotenv';
 import cors from 'cors'
 import routes from './routes/index.js'
 
+envs.config()
 const PORT = process.env.PORT || 3001;
 const uri = process.env.DB_CONNECTION;
 const app = express();
-envs.config()
 
 app.use(bodyparser.urlencoded({ extended: false }));
 app.use(bodyparser.json());
