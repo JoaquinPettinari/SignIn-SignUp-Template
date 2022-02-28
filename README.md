@@ -1,6 +1,6 @@
 # 🔒 Login - Sign up
 
-This is a free basic template with authentication token and encryption.
+This is a free basic template with authentication token, token validation and encryption.
 
 📚 Technologies: 
   - NodeJS
