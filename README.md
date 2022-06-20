@@ -16,7 +16,7 @@ npm run dev
 ```
 ✔️ You are free to use it as your want. 
 
-🚩 If you find some feature or bug, make a pull request o create a new issue.
+🚩 If you find some feature or bug, make a pull request or create a new issue.
 
 👋 Thanks for colaborating.
 
