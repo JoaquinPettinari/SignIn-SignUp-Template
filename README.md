@@ -1,4 +1,4 @@
-# 🔒 Login - Sign up
+# 🔒 Login - Sign up - Sign in
 
 This is a free basic template with authentication, token validation and encryption.
 
